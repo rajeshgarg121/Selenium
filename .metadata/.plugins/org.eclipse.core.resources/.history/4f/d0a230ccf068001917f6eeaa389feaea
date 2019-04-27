@@ -1,0 +1,12 @@
+package Base;
+
+public class Base {
+	
+	@Test
+	public static void test()
+	{
+		System.out.println("test");
+	}
+	
+
+}
