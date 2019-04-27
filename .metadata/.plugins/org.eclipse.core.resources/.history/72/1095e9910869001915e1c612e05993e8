@@ -1,0 +1,35 @@
+package Base;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.annotations.Test;
+
+public class BaseTest {
+
+	WebDriver driver;
+	public BaseTest(String browser)
+	{
+		browser=browser.toLowerCase();
+		
+		switch(browser)
+		{
+
+		case "chrome":
+		{
+			driver=new ChromeDriver();
+
+		}
+		case "explorer":
+		{
+			driver=new InternetExplorerDriver();
+		}
+		case "firefox":
+		{
+			driver=new FirefoxDriver();
+		}
+		}
+	}
+
+}

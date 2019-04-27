@@ -529,3 +529,128 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2019-04-27 19:07:12,503 [Worker-6: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
 2019-04-27 19:10:02,656 [Worker-6: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
 2019-04-27 19:10:02,656 [Worker-6: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 20:51:26,394 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:51:26,395 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-04-27 20:51:26,399 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:51:26,399 [Worker-44: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-04-27 20:51:47,521 [Worker-44: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 20:51:47,521 [Worker-44: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-04-27 20:54:28,701 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-27 20:57:48,540 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-27 20:59:58,946 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:59:58,946 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-04-27 20:59:58,946 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 20:59:58,946 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-04-27 21:01:20,368 [Worker-7: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:01:20,368 [Worker-7: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:02:14,284 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 21:02:14,284 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-04-27 21:02:14,300 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 21:02:14,300 [Worker-11: Launching BaseTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-04-27 21:02:30,517 [Worker-5: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:02:30,517 [Worker-5: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:07:27,854 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:07:27,855 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:09:15,419 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:09:15,419 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:09:26,924 [Worker-9: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:09:26,925 [Worker-9: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-27 21:10:28,297 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:10:28,297 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:12:26,816 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:12:26,816 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:14:42,211 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:14:42,211 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:15:25,142 [Worker-11: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:15:25,142 [Worker-11: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-27 21:28:01,464 [Worker-9: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:28:01,464 [Worker-9: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-27 21:30:24,986 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:30:24,986 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:32:01,983 [Worker-14: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:32:01,983 [Worker-14: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:32:54,950 [Worker-15: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:32:54,950 [Worker-15: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:33:27,812 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:33:27,812 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:34:30,237 [Worker-9: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:34:30,237 [Worker-9: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-27 21:53:31,742 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:53:31,742 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:54:19,660 [Worker-17: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:54:19,660 [Worker-17: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:55:00,052 [Worker-17: Cleaning all projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Selenium:Selenium:0.0.1-SNAPSHOT @ D:\Work\GIT\Selenium\pom.xml.
+2019-04-27 21:55:02,231 [Worker-12: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 21:55:02,231 [Worker-12: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-04-27 21:55:02,231 [Worker-12: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-04-27 21:55:02,231 [Worker-12: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-04-27 21:55:03,824 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3-sources.jar
+2019-04-27 21:55:06,467 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/6.14.3/testng-6.14.3-sources.jar
+2019-04-27 21:55:06,608 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:6.14.3
+2019-04-27 21:55:06,764 [Worker-16: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:55:06,764 [Worker-16: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-04-27 21:55:06,927 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72-sources.jar
+2019-04-27 21:55:07,411 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.72/jcommander-1.72-sources.jar
+2019-04-27 21:55:07,645 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.beust:jcommander:1.72
+2019-04-27 21:55:07,958 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6-sources.jar
+2019-04-27 21:55:09,523 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6-sources.jar
+2019-04-27 21:55:09,711 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache-extras.beanshell:bsh:2.0b6
+2019-04-27 21:55:09,992 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/bonigarcia/webdrivermanager/3.4.0/webdrivermanager-3.4.0-sources.jar
+2019-04-27 21:55:10,789 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/bonigarcia/webdrivermanager/3.4.0/webdrivermanager-3.4.0-sources.jar
+2019-04-27 21:55:11,164 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.bonigarcia:webdrivermanager:3.4.0
+2019-04-27 21:55:11,494 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar
+2019-04-27 21:55:12,040 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar
+2019-04-27 21:55:12,243 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:slf4j-api:1.7.25
+2019-04-27 21:55:12,571 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2019-04-27 21:55:14,243 [Worker-17: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:55:14,243 [Worker-17: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 21:55:14,720 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6-sources.jar
+2019-04-27 21:55:15,429 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-io:commons-io:2.6
+2019-04-27 21:55:15,706 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar
+2019-04-27 21:55:17,115 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar
+2019-04-27 21:55:17,537 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.gson:gson:2.8.5
+2019-04-27 21:55:17,822 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2019-04-27 21:55:22,597 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2019-04-27 21:55:22,800 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.8.1
+2019-04-27 21:55:23,096 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6-sources.jar
+2019-04-27 21:55:29,111 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6-sources.jar
+2019-04-27 21:55:29,330 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpclient:4.5.6
+2019-04-27 21:55:29,613 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10-sources.jar
+2019-04-27 21:55:33,872 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10-sources.jar
+2019-04-27 21:55:34,013 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.httpcomponents:httpcore:4.4.10
+2019-04-27 21:55:34,294 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2019-04-27 21:55:35,210 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar
+2019-04-27 21:55:35,553 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-logging:commons-logging:1.2
+2019-04-27 21:55:35,912 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
+2019-04-27 21:55:39,084 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar
+2019-04-27 21:55:39,510 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.10
+2019-04-27 21:55:39,791 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0-sources.jar
+2019-04-27 21:55:40,401 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/rauschig/jarchivelib/1.0.0/jarchivelib-1.0.0-sources.jar
+2019-04-27 21:55:40,653 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.rauschig:jarchivelib:1.0.0
+2019-04-27 21:55:40,950 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18-sources.jar
+2019-04-27 21:55:46,570 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18-sources.jar
+2019-04-27 21:55:46,805 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-compress:1.18
+2019-04-27 21:55:47,086 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.11.3/jsoup-1.11.3-sources.jar
+2019-04-27 21:55:50,187 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.11.3/jsoup-1.11.3-sources.jar
+2019-04-27 21:55:50,374 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.jsoup:jsoup:1.11.3
+2019-04-27 21:55:50,656 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.48.2/selenium-chrome-driver-2.48.2-sources.jar
+2019-04-27 21:55:51,015 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-chrome-driver/2.48.2/selenium-chrome-driver-2.48.2-sources.jar
+2019-04-27 21:55:51,156 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-chrome-driver:2.48.2
+2019-04-27 21:59:53,297 [Worker-17: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 21:59:53,297 [Worker-17: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:00:49,586 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:00:49,586 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:04:14,281 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:04:14,281 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:05:45,205 [Worker-19: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:05:45,205 [Worker-19: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:06:42,520 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:06:42,520 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:09:27,140 [Worker-19: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:09:27,140 [Worker-19: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:10:41,477 [Worker-9: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:10:41,478 [Worker-9: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-04-27 22:10:48,138 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:10:48,138 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-27 22:13:46,936 [Worker-19: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-27 22:13:46,936 [Worker-19: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
