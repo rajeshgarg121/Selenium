@@ -10,10 +10,4 @@ public class BaseTest {
 	{
 		System.out.println("hdhdhdh");
 	}
-@Test
-	
-	public static void test2()
-	{
-		System.out.println("hdhdhdh");
-	}
 }
