@@ -1,0 +1,5 @@
+package Helper;
+
+public class LoggerDemo {
+	static Logger log = Logger.getLogger(log4jExample.class.getName());
+}

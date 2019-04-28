@@ -654,3 +654,10 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2019-04-27 22:10:48,138 [Worker-12: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
 2019-04-27 22:13:46,936 [Worker-19: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
 2019-04-27 22:13:46,936 [Worker-19: Launching Executing clean in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-04-28 18:37:59,977 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-28 18:39:43,498 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:39:43,500 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 18:40:59,723 [Worker-5: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:40:59,724 [Worker-5: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 18:43:29,012 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:43:29,013 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
