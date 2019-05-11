@@ -723,3 +723,22 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2019-04-28 21:01:09,721 [Worker-44: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
 2019-04-28 21:01:09,721 [Worker-44: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
 2019-05-05 14:24:32,547 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-11 18:05:36,159 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-11 18:18:45,700 [Worker-14: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:18:45,716 [Worker-14: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-05-11 18:18:45,716 [Worker-14: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:18:45,716 [Worker-14: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-05-11 18:19:46,827 [Worker-15: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:19:46,843 [Worker-15: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-05-11 18:19:46,843 [Worker-15: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:19:46,843 [Worker-15: Launching LoginTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-05-11 18:21:21,442 [Worker-16: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:21:21,442 [Worker-16: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-05-11 18:21:21,442 [Worker-16: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:21:21,442 [Worker-16: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-05-11 18:22:15,277 [Worker-19: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:22:15,277 [Worker-19: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\main\resources
+2019-05-11 18:22:15,277 [Worker-19: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-11 18:22:15,277 [Worker-19: Launching Selenium_testng.xml] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Work\GIT\Selenium\src\test\resources
+2019-05-11 19:18:11,244 [Worker-23: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-05-11 19:18:11,245 [Worker-23: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
