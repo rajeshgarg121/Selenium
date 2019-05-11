@@ -1,11 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14" started-at="2019-04-27T15:32:24Z" finished-at="2019-04-27T15:32:24Z">
+  <suite name="Suite" duration-ms="14051" started-at="2019-05-11T12:52:16Z" finished-at="2019-05-11T12:52:30Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14" started-at="2019-04-27T15:32:24Z" finished-at="2019-04-27T15:32:24Z">
-    </test> <!-- Test -->
+    <test name="Test1" duration-ms="10047" started-at="2019-05-11T12:52:16Z" finished-at="2019-05-11T12:52:26Z">
+      <class name="scripts.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@5cb9f472]" name="setup" is-config="true" duration-ms="4510" started-at="2019-05-11T12:52:16Z" finished-at="2019-05-11T12:52:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="test1" duration-ms="9" started-at="2019-05-11T12:52:21Z" finished-at="2019-05-11T12:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="teardown" is-config="true" duration-ms="731" started-at="2019-05-11T12:52:21Z" finished-at="2019-05-11T12:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@5cb9f472]" name="setup" is-config="true" duration-ms="4031" started-at="2019-05-11T12:52:21Z" finished-at="2019-05-11T12:52:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="test2" duration-ms="2" started-at="2019-05-11T12:52:25Z" finished-at="2019-05-11T12:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="teardown" is-config="true" duration-ms="730" started-at="2019-05-11T12:52:25Z" finished-at="2019-05-11T12:52:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.LoginTest -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="3989" started-at="2019-05-11T12:52:26Z" finished-at="2019-05-11T12:52:30Z">
+      <class name="scripts.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@4e1d422d]" name="setup" is-config="true" duration-ms="1404" started-at="2019-05-11T12:52:26Z" finished-at="2019-05-11T12:52:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[explorer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="test1" duration-ms="0" started-at="2019-05-11T12:52:28Z" finished-at="2019-05-11T12:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="teardown" is-config="true" duration-ms="555" started-at="2019-05-11T12:52:28Z" finished-at="2019-05-11T12:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@4e1d422d]" name="setup" is-config="true" duration-ms="1468" started-at="2019-05-11T12:52:28Z" finished-at="2019-05-11T12:52:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[explorer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="test2" duration-ms="0" started-at="2019-05-11T12:52:30Z" finished-at="2019-05-11T12:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="teardown" is-config="true" duration-ms="546" started-at="2019-05-11T12:52:30Z" finished-at="2019-05-11T12:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.LoginTest -->
+    </test> <!-- Test2 -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -3,6 +3,7 @@ package scripts;
 import static org.testng.Assert.assertTrue;
 
 import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
 import org.testng.annotations.Ignore;
 import org.testng.annotations.Test;
 
@@ -17,7 +18,8 @@ public class LoginTest extends BaseTest{
 	{
 		System.out.println("Mayank");
 		log.debug("My log 1");
-		assertTrue(false);
+		//assertTrue(false);
+		//driver.findElement(By.id("dkdkd")).click();
 	}
 	@Test
 	public void test2()

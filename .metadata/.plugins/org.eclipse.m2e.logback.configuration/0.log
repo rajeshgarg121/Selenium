@@ -661,3 +661,65 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.co
 2019-04-28 18:40:59,724 [Worker-5: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
 2019-04-28 18:43:29,012 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
 2019-04-28 18:43:29,013 [Worker-1: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 18:47:09,147 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-28 18:47:27,200 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:47:27,201 [Worker-9: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 18:49:38,815 [Worker-2: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:49:38,815 [Worker-2: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 18:56:24,569 [Worker-14: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:56:24,569 [Worker-14: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 18:58:39,034 [Worker-16: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 18:58:39,034 [Worker-16: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:01:06,766 [Worker-8: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:01:06,766 [Worker-8: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:02:14,048 [Worker-16: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:02:14,048 [Worker-16: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:03:51,619 [Worker-8: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:03:51,619 [Worker-8: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:07:39,384 [Worker-15: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:07:39,384 [Worker-15: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:12:50,992 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:12:50,992 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:17:11,435 [Worker-8: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:17:11,435 [Worker-8: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:18:31,000 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:18:31,000 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:23:53,088 [Worker-15: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:23:53,088 [Worker-15: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 19:31:27,208 [Worker-15: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:31:27,210 [Worker-15: Launching Executing install in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-04-28 19:35:14,748 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-04-28 19:35:17,206 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Selenium:Selenium:0.0.1-SNAPSHOT @ D:\Work\GIT\Selenium\pom.xml.
+2019-04-28 19:35:19,476 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src
+2019-04-28 19:35:19,477 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Selenium/src/test/java
+2019-04-28 19:35:19,482 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-04-28 19:35:22,209 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2019-04-28 19:35:24,230 [Worker-24: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+2019-04-28 19:35:24,863 [Worker-24: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for log4j:log4j:1.2.17
+2019-04-28 19:46:17,597 [Worker-24: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 19:46:17,597 [Worker-24: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:14:04,084 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:14:04,085 [Worker-11: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:15:06,462 [Worker-31: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:15:06,463 [Worker-31: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:30:20,764 [Worker-24: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:30:20,764 [Worker-24: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:31:19,059 [Worker-24: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:31:19,059 [Worker-24: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:37:15,104 [Worker-33: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:37:15,104 [Worker-33: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:39:40,560 [Worker-36: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:39:40,561 [Worker-36: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:40:54,361 [Worker-32: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:40:54,362 [Worker-32: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:42:47,554 [Worker-33: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:42:47,554 [Worker-33: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:53:30,710 [Worker-41: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:53:30,710 [Worker-41: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 20:58:56,447 [Worker-44: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 20:58:56,447 [Worker-44: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 21:00:05,727 [Worker-46: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 21:00:05,728 [Worker-46: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-04-28 21:01:09,721 [Worker-44: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Work\GIT\Selenium
+2019-04-28 21:01:09,721 [Worker-44: Launching Executing test in D__Work_GIT_Selenium] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-05-05 14:24:32,547 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

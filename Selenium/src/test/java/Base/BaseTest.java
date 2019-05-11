@@ -19,7 +19,7 @@ import org.testng.annotations.Test;
 
 public class BaseTest {
 
-	WebDriver driver;
+	public WebDriver driver;
 	@BeforeTest
 	@Parameters("browser")
 	public void setup(String browser)
