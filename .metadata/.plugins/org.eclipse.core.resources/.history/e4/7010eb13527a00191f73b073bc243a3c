@@ -1,0 +1,7 @@
+TestNG-tests-1 19/05/2019 21:48:43>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:48:43>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:48:43>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:48:43>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:48:44>><<helper.LoggerDemo>test2>>test2
+TestNG-tests-2 19/05/2019 21:48:47>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-2 19/05/2019 21:48:48>><<helper.LoggerDemo>test2>>test2

@@ -8,4 +8,5 @@
 <fullyQualifiedTypeName name="org.testng.annotations.AfterSuite"/>
 <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
 <fullyQualifiedTypeName name="Base.BaseTest"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
 </qualifiedTypeNameHistroy>

@@ -1,7 +1,0 @@
-package Helper;
-
-import org.apache.log4j.Logger;
-
-public class LoggerDemo {
-	static Logger log = Logger.getLogger(LoggerDemo.class.getName());
-}

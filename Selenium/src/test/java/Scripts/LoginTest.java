@@ -12,20 +12,20 @@ import helper.LoggerDemo;
 
 public class LoginTest extends BaseTest{
 
-	Logger log=LoggerDemo.getLogger(LoginTest.class.getName());
 	@Test
 	public void test1()
 	{
 		System.out.println("Mayank");
 		//System.out.println("Mayank");
 		log.debug("My log 1");
-		//assertTrue(false);
+		assertTrue(false);
 		//driver.findElement(By.id("dkdkd")).click();
+		log.debug("test1");
 	}
 	@Test
 	public void test2()
 	{
 		System.out.println("Sahani");
-		log.debug("My log 2");
+		log.debug("test2");
 	}
 }

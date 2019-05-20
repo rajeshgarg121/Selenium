@@ -1,137 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="0.004" tests="4" errors="0" skipped="0" failures="0">
+<testsuite name="TestSuite" time="0.011" tests="7" errors="0" skipped="3" failures="2">
   <properties>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="JOB_NAME" value="Test"/>
-    <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="NUMBER_OF_PROCESSORS" value="4"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="JENKINS_HOME" value="C:\Program Files (x86)\Jenkins"/>
-    <property name="HUDSON_SERVER_COOKIE" value="36668c0b30110c7b"/>
-    <property name="POM_ARTIFACTID" value="Selenium"/>
-    <property name="os.name" value="Windows 10"/>
-    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_73\jre\classes"/>
-    <property name="EXECUTOR_NUMBER" value="1"/>
-    <property name="sun.desktop" value="windows"/>
-    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="POM_DISPLAYNAME" value="Selenium"/>
-    <property name="NODE_LABELS" value="master"/>
-    <property name="TEMP" value="C:\WINDOWS\TEMP"/>
-    <property name="java.runtime.version" value="1.8.0_73-b02"/>
-    <property name="WINSW_SERVICE_ID" value="Jenkins"/>
-    <property name="user.name" value="LENOVO-PC$"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
-    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
-    <property name="user.language" value="en"/>
-    <property name="JOB_BASE_NAME" value="Test"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Test/9/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#9"/>
-    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
-    <property name="LOCALAPPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local"/>
-    <property name="java.version" value="1.8.0_73"/>
-    <property name="PROCESSOR_LEVEL" value="6"/>
-    <property name="user.timezone" value="Asia/Calcutta"/>
-    <property name="USERNAME" value="LENOVO-PC$"/>
-    <property name="sun.arch.data.model" value="64"/>
-    <property name="NODE_NAME" value="master"/>
-    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
-    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="9"/>
-    <property name="sun.cpu.isalist" value="amd64"/>
-    <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="file.encoding.pkg" value="sun.io"/>
-    <property name="file.separator" value="\"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="maven.conf" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\conf"/>
-    <property name="java.class.version" value="52.0"/>
-    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
-    <property name="user.country" value="IN"/>
-    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
-    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
-    <property name="java.vm.info" value="mixed mode"/>
-    <property name="os.version" value="10.0"/>
-    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Test/9/display/redirect"/>
-    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
-    <property name="TMP" value="C:\WINDOWS\TEMP"/>
-    <property name="path.separator" value=";"/>
-    <property name="java.vm.version" value="25.73-b02"/>
-    <property name="user.variant" value=""/>
-    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Test/display/redirect"/>
-    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
-    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
-    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_73"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
-    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
-    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
-    <property name="POM_PACKAGING" value="jar"/>
-    <property name="SERVICE_ID" value="Jenkins"/>
-    <property name="COMPUTERNAME" value="LENOVO-PC"/>
-    <property name="user.script" value=""/>
-    <property name="POM_GROUPID" value="Selenium"/>
-    <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
-    <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-Test-9"/>
-    <property name="JENKINS_SERVER_COOKIE" value="36668c0b30110c7b"/>
-    <property name="HUDSON_URL" value="http://localhost:8080/"/>
-    <property name="ProgramData" value="C:\ProgramData"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="USERPROFILE" value="C:\WINDOWS\system32\config\systemprofile"/>
-    <property name="CLASSPATH" value=""/>
-    <property name="java.vendor.url" value="http://java.oracle.com/"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin;C:\Program Files\Java\jdk1.8.0_73/bin;C:\Program Files\Java\jdk1.8.0_73/bin;C:\Python27;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\FME\;C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\System32\OpenSSH\;C:\Python27\Scripts;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="APPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Roaming"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="maven.home" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
-    <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12.jar;C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven\boot\plexus-classworlds-2.6.0.jar;C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-3.29.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar 58383"/>
-    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_73/bin;C:\Python27;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\FME\;C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\System32\OpenSSH\;C:\Python27\Scripts;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
-    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
-    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_73/bin"/>
-    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 69 Stepping 1, GenuineIntel"/>
-    <property name="java.vm.specification.version" value="1.8"/>
-    <property name="sun.os.patch.level" value=""/>
-    <property name="sun.cpu.endian" value="little"/>
-    <property name="M2_HOME" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
-    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
-    <property name="OS" value="Windows_NT"/>
-    <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
-    <property name="PATH+MAVEN" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven/bin"/>
-    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://localhost:8080/job/Test/9/"/>
-    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
-    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="SystemRoot" value="C:\WINDOWS"/>
-    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="user.dir" value="D:\Work\GIT\Selenium"/>
-    <property name="JOB_URL" value="http://localhost:8080/job/Test/"/>
-    <property name="USERDOMAIN" value="WORKGROUP"/>
-    <property name="line.separator" value="&#10;"/>
-    <property name="MAVEN_HOME" value="C:\Program Files (x86)\Jenkins\tools\hudson.tasks.Maven_MavenInstallation\maven"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
+    <property name="java.vm.version" value="25.73-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Work\GIT\Selenium"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="9"/>
-    <property name="BASE" value="C:\Program Files (x86)\Jenkins"/>
-    <property name="JENKINS_URL" value="http://localhost:8080/"/>
-    <property name="PROCESSOR_REVISION" value="4501"/>
-    <property name="ProgramW6432" value="C:\Program Files"/>
-    <property name="windir" value="C:\WINDOWS"/>
-    <property name="file.encoding" value="Cp1252"/>
-    <property name="SystemDrive" value="C:"/>
-    <property name="maven3.interceptor" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12.jar"/>
-    <property name="WORKSPACE" value="C:\Program Files (x86)\Jenkins\workspace\Test"/>
-    <property name="maven3.interceptor.common" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12.jar"/>
-    <property name="WINSW_EXECUTABLE" value="C:\Program Files (x86)\Jenkins\jenkins.exe"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Work\GIT\Selenium"/>
+    <property name="java.runtime.version" value="1.8.0_73-b02"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Lenovo\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="D:\Work\GIT\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3134832527543695611.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/lib/amd64;C:\Python27;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\FME\;C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\System32\OpenSSH\;C:\Python27\Scripts;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Local\atom\bin;C:\Users\Lenovo\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Lenovo\Desktop;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Lenovo"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
-    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Lenovo"/>
+    <property name="java.class.path" value="C:\Users\Lenovo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.11.0.20190220-2117\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_73\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_73"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_73\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_73\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="D:\Work\GIT\Selenium\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test1" classname="scripts.LoginTest" time="0.003"/>
-  <testcase name="test2" classname="scripts.LoginTest" time="0"/>
-  <testcase name="test1" classname="scripts.LoginTest" time="0.001"/>
-  <testcase name="test2" classname="scripts.LoginTest" time="0"/>
+  <testcase name="test1" classname="scripts.LoginTest" time="0">
+    <skipped/>
+    <system-out><![CDATA[test started
+Mayank
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+retry count1
+]]></system-out>
+    <system-err>Starting ChromeDriver 72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38) on port 10139
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Started InternetExplorerDriver server (64-bit)
+3.14.0.0
+Listening on port 4477
+Only local connections are allowed
+May 19, 2019 9:52:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+</system-err>
+  </testcase>
+  <testcase name="test1" classname="scripts.LoginTest" time="0">
+    <skipped/>
+    <system-out><![CDATA[test skipped
+test started
+Mayank
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+retry count2
+]]></system-out>
+  </testcase>
+  <testcase name="test1" classname="scripts.LoginTest" time="0">
+    <skipped/>
+    <system-out><![CDATA[test skipped
+test started
+Mayank
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+retry count3
+]]></system-out>
+  </testcase>
+  <testcase name="test1" classname="scripts.LoginTest" time="0.007">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at scripts.LoginTest.test1(LoginTest.java:21)
+</failure>
+    <system-out><![CDATA[test skipped
+test started
+Mayank
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
+]]></system-out>
+  </testcase>
+  <testcase name="test2" classname="scripts.LoginTest" time="0.001"/>
+  <testcase name="test1" classname="scripts.LoginTest" time="0.002">
+    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertTrue(Assert.java:44)
+	at org.testng.Assert.assertTrue(Assert.java:54)
+	at scripts.LoginTest.test1(LoginTest.java:21)
+</failure>
+    <system-out><![CDATA[test passed
+test started
+Mayank
+TestNG-tests-2 19/05/2019 21:52:41>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-2 19/05/2019 21:52:41>><<helper.LoggerDemo>test1>>My log 1
+]]></system-out>
+    <system-err>May 19, 2019 9:52:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+</system-err>
+  </testcase>
+  <testcase name="test2" classname="scripts.LoginTest" time="0.001"/>
 </testsuite>

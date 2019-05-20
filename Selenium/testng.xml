@@ -2,20 +2,20 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite" thread-count="2" parallel="tests">
 
-<listeners>
-        <listener class-name="listeners.MyListener"/>
-</listeners>
-	
-	<test thread-count="1" name="Test1">
-	<parameter name="browser" value="chrome"/>
-		<classes>
-			<class name="scripts.LoginTest" />
-		</classes>
-	</test> 
+	<listeners>
+		<listener class-name="listeners.MyListener" />
+	</listeners>
 	<test thread-count="1" name="Test2">
-	<parameter name="browser" value="explorer"/>
+		<parameter name="browser" value="explorer" />
 		<classes>
 			<class name="scripts.LoginTest" />
 		</classes>
 	</test>
+	<test thread-count="1" name="Test1">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="scripts.LoginTest" />
+		</classes>
+	</test>
+
 </suite> <!-- Suite -->

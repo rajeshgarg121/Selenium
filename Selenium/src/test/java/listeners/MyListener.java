@@ -9,6 +9,9 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 import org.testng.annotations.ITestAnnotation;
 
+import base.BaseTest;
+import helper.ScreenShot;
+
 public class MyListener	implements ITestListener,IAnnotationTransformer{
 
 	@Override
@@ -29,6 +32,7 @@ public class MyListener	implements ITestListener,IAnnotationTransformer{
 
 		@Override
 		public void onTestFailure(ITestResult result) {
+			ScreenShot.getScreenShot(((BaseTest)result.getInstance()).driver,result.getName());
 			System.out.println("test FAILED");
 			
 		}

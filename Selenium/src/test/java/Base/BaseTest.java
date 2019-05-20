@@ -1,5 +1,12 @@
 package base;
 
+import java.io.File;
+import java.text.SimpleDateFormat;
+
+import org.apache.commons.io.FileUtils;
+import org.apache.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -17,15 +24,19 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
+import helper.LoggerDemo;
+
 public class BaseTest {
 
+	public static Logger log;
 	public WebDriver driver;
+	public LoggerDemo logger;
 	@BeforeTest
 	@Parameters("browser")
 	public void setup(String browser)
 	{
 		browser=browser.toLowerCase();
-
+		logger=new LoggerDemo();
 		switch(browser)
 		{
 
@@ -55,6 +66,8 @@ public class BaseTest {
 		}
 		driver.get("https://www.google.com/");
 	}
+	
+		
 	@AfterTest
 	public void teardown()
 	{
