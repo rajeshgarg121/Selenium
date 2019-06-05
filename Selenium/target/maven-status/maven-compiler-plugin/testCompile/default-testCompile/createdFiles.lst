@@ -1,4 +1,5 @@
 base\BaseTest.class
+scripts\TestMethods.class
 listeners\AnnotationTransformer.class
 helper\Report.class
 listeners\Retry.class

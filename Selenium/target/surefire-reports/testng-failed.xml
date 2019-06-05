@@ -10,10 +10,25 @@
       <class name="scripts.LoginTest">
         <methods>
           <include name="setup"/>
+          <include name="settest"/>
+          <include name="getresult"/>
+          <include name="teardown2"/>
+          <include name="teardown"/>
+          <include name="test1"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- scripts.LoginTest -->
+      <class name="scripts.TestMethods">
+        <methods>
+          <include name="setup"/>
+          <include name="test2"/>
+          <include name="settest"/>
+          <include name="getresult"/>
+          <include name="teardown2"/>
           <include name="teardown"/>
           <include name="test1"/>
         </methods>
-      </class> <!-- scripts.LoginTest -->
+      </class> <!-- scripts.TestMethods -->
     </classes>
   </test> <!-- Test2(failed) -->
   <test thread-count="2" verbose="0" name="Test1(failed)" parallel="tests">
@@ -22,10 +37,25 @@
       <class name="scripts.LoginTest">
         <methods>
           <include name="setup"/>
+          <include name="settest"/>
+          <include name="getresult"/>
+          <include name="teardown2"/>
+          <include name="teardown"/>
+          <include name="test1"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- scripts.LoginTest -->
+      <class name="scripts.TestMethods">
+        <methods>
+          <include name="setup"/>
+          <include name="test2"/>
+          <include name="settest"/>
+          <include name="getresult"/>
+          <include name="teardown2"/>
           <include name="teardown"/>
           <include name="test1"/>
         </methods>
-      </class> <!-- scripts.LoginTest -->
+      </class> <!-- scripts.TestMethods -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,6 +1,0 @@
-$${ctx:threadId} 19/05/2019 20:54:27>><<helper.LoggerDemo>test1>>My log 1
-$${ctx:threadId} 19/05/2019 20:54:27>><<helper.LoggerDemo>test1>>test1
-$${ctx:threadId} 19/05/2019 20:54:27>><<helper.LoggerDemo>test2>>test2
-$${ctx:threadId} 19/05/2019 20:54:29>><<helper.LoggerDemo>test1>>My log 1
-$${ctx:threadId} 19/05/2019 20:54:29>><<helper.LoggerDemo>test1>>test1
-$${ctx:threadId} 19/05/2019 20:54:29>><<helper.LoggerDemo>test2>>test2

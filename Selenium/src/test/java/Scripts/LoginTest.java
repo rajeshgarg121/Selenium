@@ -18,7 +18,7 @@ public class LoginTest extends BaseTest{
 		System.out.println("Mayank");
 		//System.out.println("Mayank");
 		log.debug("My log 1");
-		assertTrue(false);
+		//assertTrue(false);
 		//driver.findElement(By.id("dkdkd")).click();
 		log.debug("test1");
 	}

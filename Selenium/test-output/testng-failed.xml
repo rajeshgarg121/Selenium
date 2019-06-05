@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="listeners.MyListener"/>
+  </listeners>
+  <test thread-count="2" name="Test2(failed)" parallel="tests">
+    <parameter name="browser" value="explorer"/>
     <classes>
       <class name="scripts.LoginTest">
         <methods>
           <include name="setup"/>
+          <include name="getresult"/>
           <include name="teardown"/>
           <include name="test1"/>
           <include name="test2"/>
         </methods>
       </class> <!-- scripts.LoginTest -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test2(failed) -->
+  <test thread-count="2" name="Test1(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="scripts.LoginTest">
+        <methods>
+          <include name="setup"/>
+          <include name="getresult"/>
+          <include name="teardown"/>
+          <include name="test1"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- scripts.LoginTest -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

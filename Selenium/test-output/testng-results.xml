@@ -1,55 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" ignored="4" total="12" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14051" started-at="2019-05-11T12:52:16Z" finished-at="2019-05-11T12:52:30Z">
+  <suite name="Suite" duration-ms="7153" started-at="2019-06-02T11:20:10Z" finished-at="2019-06-02T11:20:17Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="10047" started-at="2019-05-11T12:52:16Z" finished-at="2019-05-11T12:52:26Z">
-      <class name="scripts.LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@5cb9f472]" name="setup" is-config="true" duration-ms="4510" started-at="2019-05-11T12:52:16Z" finished-at="2019-05-11T12:52:21Z">
+    <test name="Test2" duration-ms="3616" started-at="2019-06-02T11:20:10Z" finished-at="2019-06-02T11:20:13Z">
+      <class name="scripts.TestMethods">
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@13deb50e]" name="settest" is-config="true" duration-ms="1" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=TestMethods.test1()[pri:0, instance:scripts.TestMethods@13deb50e] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="test1" duration-ms="9" started-at="2019-05-11T12:52:21Z" finished-at="2019-05-11T12:52:21Z">
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.TestMethods@13deb50e]" name="test1" duration-ms="3" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="teardown" is-config="true" duration-ms="731" started-at="2019-05-11T12:52:21Z" finished-at="2019-05-11T12:52:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@5cb9f472]" name="setup" is-config="true" duration-ms="4031" started-at="2019-05-11T12:52:21Z" finished-at="2019-05-11T12:52:25Z">
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@13deb50e]" name="getresult" is-config="true" duration-ms="1" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[chrome]]>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=TestMethods.test1()[pri:0, instance:scripts.TestMethods@13deb50e] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="test2" duration-ms="2" started-at="2019-05-11T12:52:25Z" finished-at="2019-05-11T12:52:25Z">
+        </test-method> <!-- getresult -->
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@13deb50e]" name="settest" is-config="true" duration-ms="1" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=TestMethods.test2()[pri:0, instance:scripts.TestMethods@13deb50e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.TestMethods@13deb50e]" name="test2" duration-ms="6" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@5cb9f472]" name="teardown" is-config="true" duration-ms="730" started-at="2019-05-11T12:52:25Z" finished-at="2019-05-11T12:52:26Z">
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@13deb50e]" name="getresult" is-config="true" duration-ms="3" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=TestMethods.test2()[pri:0, instance:scripts.TestMethods@13deb50e] output={null}]]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- scripts.LoginTest -->
-    </test> <!-- Test1 -->
-    <test name="Test2" duration-ms="3989" started-at="2019-05-11T12:52:26Z" finished-at="2019-05-11T12:52:30Z">
+        </test-method> <!-- getresult -->
+      </class> <!-- scripts.TestMethods -->
       <class name="scripts.LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@4e1d422d]" name="setup" is-config="true" duration-ms="1404" started-at="2019-05-11T12:52:26Z" finished-at="2019-05-11T12:52:28Z">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@f6c48ac]" name="setup" is-config="true" duration-ms="2973" started-at="2019-06-02T11:20:10Z" finished-at="2019-06-02T11:20:13Z">
           <params>
             <param index="0">
               <value>
@@ -60,34 +72,188 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="test1" duration-ms="0" started-at="2019-05-11T12:52:28Z" finished-at="2019-05-11T12:52:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="teardown" is-config="true" duration-ms="555" started-at="2019-05-11T12:52:28Z" finished-at="2019-05-11T12:52:28Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@4e1d422d]" name="setup" is-config="true" duration-ms="1468" started-at="2019-05-11T12:52:28Z" finished-at="2019-05-11T12:52:30Z">
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@f6c48ac]" name="settest" is-config="true" duration-ms="6" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[explorer]]>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=LoginTest.test1()[pri:0, instance:scripts.LoginTest@f6c48ac] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="test2" duration-ms="0" started-at="2019-05-11T12:52:30Z" finished-at="2019-05-11T12:52:30Z">
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.LoginTest@f6c48ac]" name="test1" duration-ms="16" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@f6c48ac]" name="getresult" is-config="true" duration-ms="15" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=LoginTest.test1()[pri:0, instance:scripts.LoginTest@f6c48ac] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresult -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.LoginTest@f6c48ac]" name="test2" duration-ms="5" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test2 -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@4e1d422d]" name="teardown" is-config="true" duration-ms="546" started-at="2019-05-11T12:52:30Z" finished-at="2019-05-11T12:52:30Z">
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@f6c48ac]" name="settest" is-config="true" duration-ms="0" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=LoginTest.test2()[pri:0, instance:scripts.LoginTest@f6c48ac] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@f6c48ac]" name="getresult" is-config="true" duration-ms="2" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=LoginTest.test2()[pri:0, instance:scripts.LoginTest@f6c48ac] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresult -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@f6c48ac]" name="teardown" is-config="true" duration-ms="535" started-at="2019-06-02T11:20:13Z" finished-at="2019-06-02T11:20:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- scripts.LoginTest -->
     </test> <!-- Test2 -->
+    <test name="Test1" duration-ms="7153" started-at="2019-06-02T11:20:10Z" finished-at="2019-06-02T11:20:17Z">
+      <class name="scripts.TestMethods">
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@1ed4004b]" name="settest" is-config="true" duration-ms="1" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=TestMethods.test1()[pri:0, instance:scripts.TestMethods@1ed4004b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.TestMethods@1ed4004b]" name="test1" duration-ms="2" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@1ed4004b]" name="getresult" is-config="true" duration-ms="0" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=TestMethods.test1()[pri:0, instance:scripts.TestMethods@1ed4004b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresult -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.TestMethods@1ed4004b]" name="test2" duration-ms="2" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@1ed4004b]" name="settest" is-config="true" duration-ms="0" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=TestMethods.test2()[pri:0, instance:scripts.TestMethods@1ed4004b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.TestMethods@1ed4004b]" name="getresult" is-config="true" duration-ms="1" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=TestMethods.test2()[pri:0, instance:scripts.TestMethods@1ed4004b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresult -->
+      </class> <!-- scripts.TestMethods -->
+      <class name="scripts.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:scripts.LoginTest@4566e5bd]" name="setup" is-config="true" duration-ms="6345" started-at="2019-06-02T11:20:10Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts.LoginTest@4566e5bd]" name="test1" duration-ms="3" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@4566e5bd]" name="settest" is-config="true" duration-ms="0" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=LoginTest.test1()[pri:0, instance:scripts.LoginTest@4566e5bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@4566e5bd]" name="getresult" is-config="true" duration-ms="0" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=LoginTest.test1()[pri:0, instance:scripts.LoginTest@4566e5bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresult -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:scripts.LoginTest@4566e5bd]" name="test2" duration-ms="3" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="settest(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@4566e5bd]" name="settest" is-config="true" duration-ms="0" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=LoginTest.test2()[pri:0, instance:scripts.LoginTest@4566e5bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settest -->
+        <test-method status="PASS" signature="getresult(org.testng.ITestResult)[pri:0, instance:scripts.LoginTest@4566e5bd]" name="getresult" is-config="true" duration-ms="1" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=LoginTest.test2()[pri:0, instance:scripts.LoginTest@4566e5bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getresult -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:scripts.LoginTest@4566e5bd]" name="teardown" is-config="true" duration-ms="756" started-at="2019-06-02T11:20:16Z" finished-at="2019-06-02T11:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts.LoginTest -->
+    </test> <!-- Test1 -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -1,5 +1,6 @@
-base\BaseTest.class
+scripts\TestMethods.class
 listeners\AnnotationTransformer.class
+Base\BaseTest.class
 helper\Report.class
 listeners\Retry.class
 listeners\MyListener.class

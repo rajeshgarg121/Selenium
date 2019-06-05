@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="0.011" tests="7" errors="0" skipped="3" failures="2">
+<testsuite name="TestSuite" time="0.023" tests="8" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_73\jre\bin"/>
@@ -26,9 +26,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="D:\Work\GIT\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf3134832527543695611.tmp"/>
+    <property name="classworlds.conf" value="D:\Work\GIT\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf2179338211626111513.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/lib/amd64;C:\Python27;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files\FME\;C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\System32\OpenSSH\;C:\Python27\Scripts;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Local\atom\bin;C:\Users\Lenovo\AppData\Roaming\npm;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Lenovo\Desktop;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_73/bin/../jre/lib/amd64;C:\Python27;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\FME\;C:\Program Files\Java\jdk1.8.0_73\bin;C:\WINDOWS\System32\OpenSSH\;C:\Python27\Scripts;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\nodejs\;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\AppData\Local\atom\bin;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;;C:\Users\Lenovo\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Lenovo\AppData\Roaming\npm;C:\Users\Lenovo\Desktop;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,78 +60,12 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="test1" classname="scripts.LoginTest" time="0">
-    <skipped/>
-    <system-out><![CDATA[test started
-Mayank
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-retry count1
-]]></system-out>
-    <system-err>Starting ChromeDriver 72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38) on port 10139
-Only local connections are allowed.
-Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Started InternetExplorerDriver server (64-bit)
-3.14.0.0
-Listening on port 4477
-Only local connections are allowed
-May 19, 2019 9:52:38 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: W3C
-</system-err>
-  </testcase>
-  <testcase name="test1" classname="scripts.LoginTest" time="0">
-    <skipped/>
-    <system-out><![CDATA[test skipped
-test started
-Mayank
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-retry count2
-]]></system-out>
-  </testcase>
-  <testcase name="test1" classname="scripts.LoginTest" time="0">
-    <skipped/>
-    <system-out><![CDATA[test skipped
-test started
-Mayank
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-retry count3
-]]></system-out>
-  </testcase>
-  <testcase name="test1" classname="scripts.LoginTest" time="0.007">
-    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertTrue(Assert.java:44)
-	at org.testng.Assert.assertTrue(Assert.java:54)
-	at scripts.LoginTest.test1(LoginTest.java:21)
-</failure>
-    <system-out><![CDATA[test skipped
-test started
-Mayank
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-TestNG-tests-1 19/05/2019 21:52:39>><<helper.LoggerDemo>test1>>My log 1
-]]></system-out>
-  </testcase>
+  <testcase name="test1" classname="scripts.LoginTest" time="0.01"/>
   <testcase name="test2" classname="scripts.LoginTest" time="0.001"/>
-  <testcase name="test1" classname="scripts.LoginTest" time="0.002">
-    <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
-	at org.testng.Assert.fail(Assert.java:96)
-	at org.testng.Assert.failNotEquals(Assert.java:776)
-	at org.testng.Assert.assertTrue(Assert.java:44)
-	at org.testng.Assert.assertTrue(Assert.java:54)
-	at scripts.LoginTest.test1(LoginTest.java:21)
-</failure>
-    <system-out><![CDATA[test passed
-test started
-Mayank
-TestNG-tests-2 19/05/2019 21:52:41>><<helper.LoggerDemo>test1>>My log 1
-TestNG-tests-2 19/05/2019 21:52:41>><<helper.LoggerDemo>test1>>My log 1
-]]></system-out>
-    <system-err>May 19, 2019 9:52:39 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-</system-err>
-  </testcase>
-  <testcase name="test2" classname="scripts.LoginTest" time="0.001"/>
+  <testcase name="test1" classname="scripts.TestMethods" time="0.006"/>
+  <testcase name="test2" classname="scripts.TestMethods" time="0.001"/>
+  <testcase name="test1" classname="scripts.LoginTest" time="0.005"/>
+  <testcase name="test2" classname="scripts.LoginTest" time="0"/>
+  <testcase name="test1" classname="scripts.TestMethods" time="0"/>
+  <testcase name="test2" classname="scripts.TestMethods" time="0"/>
 </testsuite>

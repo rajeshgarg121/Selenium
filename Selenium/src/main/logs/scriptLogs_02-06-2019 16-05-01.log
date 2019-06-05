@@ -1,0 +1,10 @@
+TestNG-tests-1 02/06/2019 16:05:04>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-1 02/06/2019 16:05:04>><<helper.LoggerDemo>test1>>test1
+TestNG-tests-1 02/06/2019 16:05:04>><<helper.LoggerDemo>test2>>test2
+TestNG-tests-1 02/06/2019 16:05:04>><<helper.LoggerDemo>test1>>TestMethods class method 1
+TestNG-tests-1 02/06/2019 16:05:04>><<helper.LoggerDemo>test2>>TestMethods class method 2
+TestNG-tests-2 02/06/2019 16:05:07>><<helper.LoggerDemo>test1>>My log 1
+TestNG-tests-2 02/06/2019 16:05:07>><<helper.LoggerDemo>test1>>test1
+TestNG-tests-2 02/06/2019 16:05:07>><<helper.LoggerDemo>test2>>test2
+TestNG-tests-2 02/06/2019 16:05:08>><<helper.LoggerDemo>test1>>TestMethods class method 1
+TestNG-tests-2 02/06/2019 16:05:08>><<helper.LoggerDemo>test2>>TestMethods class method 2
